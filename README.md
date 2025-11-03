@@ -1,6 +1,6 @@
 <br><h1 align="center">Traffic Observation Exercise</br>
 <br>
-<img src="https://cdn-icons-png.freepik.com/256/11276/11276084.png?semt=ais_white_label" height="300" width="300"/></br>
+<img src="https://cdn-icons-png.freepik.com/256/11276/11276084.png?semt=ais_white_label" height="200" width="200"/></br>
 </h1>
 This guide will show you how to observe different traffic traveling between two hosts in a network. We'll being using two preconfigured VMs from Azure: one Windows 10 client, and a Linux Ubuntu server, both of which are connected to the same virtual network.
 <br/>
@@ -77,7 +77,7 @@ This guide will show you how to observe different traffic traveling between two 
 <br/>
 </p>
 
-<h2 align="center">SSh Traffic</h2>
+<h2 align="center">SSH Traffic</h2>
 
 <p>We're first starting out within the Windows client OS. Here, I ran "<strong>ping</strong> mainframe" to confirm there is no domain created with this name yet- so next up is where we'll use this name to create a new host within our Window Server domain.
 <br><img src="https://github.com/user-attachments/assets/a0765680-752f-4647-8e95-ffbf361d5227" height="75%" width="100%"/>
